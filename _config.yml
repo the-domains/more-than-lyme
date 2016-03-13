@@ -1,0 +1,28 @@
+name: More Than Lyme
+favicon: null
+layout_spectrum: 0.6110775072593242
+typography_spectrum: 0.7188456954900175
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.881307901116088
+  lightness: 0.07065428839996457
+  saturation: 0.02939284173771739
+  rhythmicContrast: 0.892798985587433
+purpose: []
